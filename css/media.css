@@ -66,6 +66,34 @@ header{
 .c_left ul li span, .c_right ul li span{
 	font-size: 15px;
 }
+/*testimony start*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t_item{
+	margin-top: 30px;
+}
+.t_img{
+	padding: 0 60px 20px;
+   }
+.t_text{
+	text-align: center;
+}
+/*  footer top start  */
+.footer_top{
+	text-align: center;
+	padding: 55px 0 20px;
+}
+.ft_details{
+	margin-bottom: 35px;
+	padding-right: 0;	
+}
+.ft_links{
+	margin-bottom: 35px;
+}
+
+
+
  }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -130,7 +158,31 @@ header{
 .c_left ul li span, .c_right ul li span{
 	font-size: 15px;
 }
+/*testimony start*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t_item{
+	margin-top: 30px;
+}
+.t_img{
+	padding: 0 120px 20px;
    }
+.t_text{
+	text-align: center;
+}
+/*  footer top start  */
+.footer_top{
+	text-align: center;
+}
+.ft_details{
+	margin-bottom: 35px;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+
+
+}  
  
 
  /* Medium devices (tablets, 768px and up)*/
@@ -163,8 +215,22 @@ header{
 .c_single{
 	margin: 30px 150px 0;
 }
-
-
+/*testimony start*/
+.testimony{
+	padding-bottom: 80px;
+}
+.t_item{
+	margin-top: 40px;
+}
+/*  footer top start  */
+.footer_top{
+	text-align: center;
+}
+.ft_details{
+	margin-bottom: 35px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -197,7 +263,10 @@ header{
   .bh1{
 	margin: 10px 100px 20px 0;
 }
-    
+/*  footer top start  */
+.ft_details{
+	padding-right: 130px;
+}
 }
 	
 

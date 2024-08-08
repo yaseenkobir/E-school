@@ -167,11 +167,68 @@ header{
 .cli:not(:last-child){
 	margin-right: 2px;
 }
-
-
-
-
-
 /*online course end*/
+
+/*testimony start*/
+.testimony{
+	padding-bottom: 100px;
+}
+
+.t_item{
+	margin-top: 60px;
+}
+.t_img{}
+.t_img img{
+	width: 100%;
+}
+
+.t_text{}
+.t_text p{}
+/*testimony end*/
+
+/*footer tor start*/
+.footer_top{
+	padding: 55px 0 55px;
+	background-color: #282531;
+}
+
+
+.ft_details{
+	padding-right: 120px;
+
+}
+.ft_details p{
+	color: #ffffff;
+	line-height: 30px;
+}
+
+.ft_links{}
+.ft_links h2{
+	margin-bottom: 8px;	
+	font-size: 18px;
+	font-weight: 700;
+	color: #ffffff;
+	line-height: 30px;
+}
+.ft_links ul li a{
+	margin-bottom: 8px;
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+/*footer tor end*/
+/*footer start*/
+footer{
+	padding: 20px 0 30px;
+	background-color: #282531;
+}
+footer p{
+	color: white;
+	line-height: 30px;
+}
+footer p a{
+	color: white;
+}
+/*footer end*/
 
 
